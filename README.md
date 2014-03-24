@@ -1,4 +1,4 @@
-Compass css3
+CSS3 Compass
 ==========
 
 Compass developed using HTML and CSS3 (no images) | [Demo](https://developer.mozilla.org/pt-BR/demos/detail/compass-css3/launch)
